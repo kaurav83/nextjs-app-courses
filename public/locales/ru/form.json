@@ -1,0 +1,20 @@
+{
+  "validationEmail": "это поле обязательно для заполнения",
+  "validationMinLength": "минимальная длина - ${min} символов",
+  "validationMaxLength": "максимальная длина - ${max} символов",
+  "validationPassword": "придумайте надежный пароль",
+  "confirmPassword": "пароли должны совпадать",
+  "validationConfirmPassword": "повторите пароль",
+  "title": "Страница авторизации пользователя",
+  "auth": "Авторизация",
+  "createAccount": "Создать аккаунт",
+  "notRegistered": "Еще не зарегистрированы?",
+  "regiser": "Регистрируйтесь",
+  "enter": "Войти",
+  "haveAccount": "Есть аккаунт?",
+  "name": "Имя",
+  "password": "Пароль",
+  "confirmation": "Подтверждение пароля",
+  "registration": "Регистрация",
+  "registerPage": "Страница регистрации пользователя"
+}

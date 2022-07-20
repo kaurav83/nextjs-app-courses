@@ -1,0 +1,7 @@
+{
+  "pageNotFound": "Seite wurde nicht gefunden",
+  "serverError": "Fehler auf der Serverseite",
+  "clientError": "Fehler auf der Client-Seite",
+  "mainPage": "Hauptseite",
+  "goHome": "Zurück nach hause"
+}

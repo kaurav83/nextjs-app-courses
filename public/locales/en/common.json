@@ -1,0 +1,7 @@
+{
+  "pageNotFound": "The page you were looking for could not be found",
+  "serverError": "There is some server error.",
+  "clientError": "Unknown client Error.",
+  "mainPage": "Main Page",
+  "goHome": "Go To Homepage"
+}

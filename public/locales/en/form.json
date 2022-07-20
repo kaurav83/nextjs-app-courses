@@ -1,0 +1,21 @@
+{
+  "validationEmail": "this field is required",
+  "validationMinLength": "minimum length - ${min} characters",
+  "validationMaxLength": "maximum length - ${max} characters",
+  "validationPassword": "come up with a strong password",
+  "confirmPassword": "passwords must be the same",
+  "validationConfirmPassword": "repeat password",
+  "title": "User authorisation page",
+  "auth": "Authorisation",
+  "createAccount": "Create an account",
+  "notRegistered": "Not registered yet?",
+  "regiser": "Register",
+  "enter": "Login",
+  "haveAccount": "Do you have an account?",
+  "name": "Name",
+  "email": "Email",
+  "password": "Password",
+  "confirmation": "Password confirmation",
+  "registration": "Registration",
+  "registerPage": "User registration page"
+}

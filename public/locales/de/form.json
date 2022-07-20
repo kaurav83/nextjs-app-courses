@@ -1,0 +1,21 @@
+{
+  "validationEmail": "dieses feld ist obligatorisch",
+  "validationMinLength": "mindestlänge - ${min} zeichen",
+  "validationMaxLength": "maximale Länge - ${max} zeichen",
+  "validationPassword": "ein sicheres passwort zu finden",
+  "confirmPassword": "passwörter müssen übereinstimmen",
+  "validationConfirmPassword": "wiederholung des passworts",
+  "title": "Seite für die Benutzerautorisierung",
+  "auth": "Autorisierung",
+  "createAccount": "Ein Konto erstellen",
+  "notRegistered": "Noch nicht registriert?",
+  "regiser": "Registrieren sie sich",
+  "enter": "Einloggen",
+  "haveAccount": "Haben Sie ein Konto?",
+  "name": "Name",
+  "email": "E-Mail",
+  "password": "Passwort",
+  "confirmation": "Bestätigung des passworts",
+  "registration": "Anmeldung",
+  "registerPage": "Seite zur benutzerregistrierung"
+}
